@@ -20,7 +20,7 @@ public class CrimeActivity extends SingleFragmentActivity {
 //        }
 //    }
     @Override
-    protected Fragment createFragemnt() {
+    protected Fragment createFramgent() {
         return new CrimeFragment();
     }
 }
